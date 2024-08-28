@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=KF1 NewDesignator=MOTOR
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component PMS7003

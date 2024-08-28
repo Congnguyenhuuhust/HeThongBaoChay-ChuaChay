@@ -1,0 +1,6 @@
+Added Component: Designator=*(COI_CHIP - duplicate)
+Added Pin To Net: NetName=Net*_3 Pin=*-1
+Change Net Name : Old Net Name=Net*_3 New Net Name=Net*_1
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * COI_CHIP
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * BUCK_LM2596

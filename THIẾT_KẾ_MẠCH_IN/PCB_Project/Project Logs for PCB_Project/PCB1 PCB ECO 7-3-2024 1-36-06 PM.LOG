@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=* NewDesignator=COI_CHIP
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net*_3
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component COI_CHIP

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=Net*_23 Pin=PMS7003-1
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_24 Pin=PMS7003-2
+Added Net: Name=Net*_24
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
+Added Room: Name=BAO_CHAY_SCHEMATIC

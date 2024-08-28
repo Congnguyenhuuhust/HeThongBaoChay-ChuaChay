@@ -1,0 +1,4 @@
+Added Component: Designator=*(COI_CHIP - duplicate)
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * COI_CHIP
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
+Added Room: Name=BAO_CHAY_SCHEMATIC

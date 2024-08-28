@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=DHT11
+Change Component Designator: OldDesignator=JP? NewDesignator=PMS7003
+Change Component Designator: OldDesignator=JP? NewDesignator=RELAY
+Added Pin To Net: NetName=Net*_1 Pin=KF1-1
+Added Pin To Net: NetName=Net*_2 Pin=KF1-2
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component DHT11
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component RELAY

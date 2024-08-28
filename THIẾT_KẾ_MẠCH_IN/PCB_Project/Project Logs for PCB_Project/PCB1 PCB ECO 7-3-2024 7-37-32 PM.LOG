@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetCOI_CHIP_1 Pin=ESP32-29
+Removed Pin From Net: NetName=NetDHT11_3 Pin=ESP32-30
+Removed Member From Class: ClassName=BAO_CHAY_SCHEMATIC Member=ESP32
+Added Component: Designator=*(ESP32)
+Added Pin To Net: NetName=NetCOI_CHIP_1 Pin=*-29
+Added Pin To Net: NetName=NetDHT11_3 Pin=*-30
+Change Net Name : Old Net Name=NetCOI_CHIP_1 New Net Name=Net*_29
+Change Net Name : Old Net Name=NetDHT11_3 New Net Name=Net*_30
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=RELAY-1
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=COI_CHIP-2
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=PMS7003-2
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=PMS7003-1
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_28 Pin=*-28
+Added Pin To Net: NetName=Net*_28 Pin=DHT11-2
+Added Net: Name=Net*_28
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32

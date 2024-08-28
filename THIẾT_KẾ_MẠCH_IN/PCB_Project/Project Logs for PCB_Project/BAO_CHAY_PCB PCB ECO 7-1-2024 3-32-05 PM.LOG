@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net*_3 Pin=PMS7003-1
+Removed Pin From Net: NetName=Net*_4 Pin=PMS7003-2
+Added Pin To Net: NetName=Net*_4 Pin=PMS7003-3
+Added Pin To Net: NetName=Net*_3 Pin=PMS7003-4
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=PMS7003-2
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=PMS7003-1
+Added Net: Name=Net*_15
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32

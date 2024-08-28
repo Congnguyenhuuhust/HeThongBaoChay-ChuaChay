@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net*_2 Pin=MOTOR-1
+Removed Pin From Net: NetName=Net*_1 Pin=MOTOR-2
+Added Pin To Net: NetName=Net*_1 Pin=MOTOR-1
+Added Pin To Net: NetName=Net*_2 Pin=MOTOR-2
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32

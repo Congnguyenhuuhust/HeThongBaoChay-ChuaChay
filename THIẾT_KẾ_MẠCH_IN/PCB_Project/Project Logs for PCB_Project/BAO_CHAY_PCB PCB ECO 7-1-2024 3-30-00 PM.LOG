@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Net*_3 Pin=PMS7003-1
+Added Pin To Net: NetName=Net*_4 Pin=PMS7003-2
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32

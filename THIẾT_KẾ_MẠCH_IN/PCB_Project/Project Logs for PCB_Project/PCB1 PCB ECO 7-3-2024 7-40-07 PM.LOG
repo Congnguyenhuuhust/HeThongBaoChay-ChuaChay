@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Net*_29 Pin=LM2596-3
+Removed Pin From Net: NetName=Net*_30 Pin=LM2596-4
+Removed Member From Class: ClassName=BAO_CHAY_SCHEMATIC Member=LM2596
+Added Component: Designator=*(DIP4)
+Added Pin To Net: NetName=Net*_29 Pin=*-3
+Added Pin To Net: NetName=Net*_30 Pin=*-4
+Change Net Name : Old Net Name=Net*_29 New Net Name=Net*_3
+Change Net Name : Old Net Name=Net*_30 New Net Name=Net*_4
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=JACK DC1-1
+Added Pin To Net: NetName=Net*_1 Pin=MOTOR-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=JACK DC1-2
+Added Pin To Net: NetName=Net*_2 Pin=MOTOR-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * BUCK_LM2596

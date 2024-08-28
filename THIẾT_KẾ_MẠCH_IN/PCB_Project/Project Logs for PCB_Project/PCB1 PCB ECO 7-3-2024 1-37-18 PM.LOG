@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=* NewDesignator=ESP32
+Change Component Designator: OldDesignator=* NewDesignator=LM2596
+Change Component Designator: OldDesignator=JACK DC? NewDesignator=JACK DC1
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetJACK DC1_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetJACK DC1_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetCOI_CHIP_1
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetDHT11_3
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetESP32_8
+Change Net Name : Old Net Name=Net*_14 New Net Name=NetESP32_14
+Change Net Name : Old Net Name=Net*_15 New Net Name=NetESP32_15
+Change Net Name : Old Net Name=Net*_28 New Net Name=NetDHT11_2
+Added Pin To Net: NetName=NetCOI_CHIP_2 Pin=COI_CHIP-2
+Added Pin To Net: NetName=NetCOI_CHIP_2 Pin=ESP32-3
+Added Net: Name=NetCOI_CHIP_2
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component ESP32
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component LM2596 BUCK_LM2596

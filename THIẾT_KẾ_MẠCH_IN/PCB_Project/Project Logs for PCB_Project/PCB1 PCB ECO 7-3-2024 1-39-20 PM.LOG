@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetCOI_CHIP_2 Pin=ESP32-3
+Added Pin To Net: NetName=NetCOI_CHIP_2 Pin=ESP32-11

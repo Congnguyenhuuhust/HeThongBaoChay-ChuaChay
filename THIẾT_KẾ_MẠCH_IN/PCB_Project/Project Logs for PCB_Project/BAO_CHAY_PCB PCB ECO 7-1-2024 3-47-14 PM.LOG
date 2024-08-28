@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Net*_3 Pin=*-29
+Added Pin To Net: NetName=Net*_4 Pin=*-30
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32

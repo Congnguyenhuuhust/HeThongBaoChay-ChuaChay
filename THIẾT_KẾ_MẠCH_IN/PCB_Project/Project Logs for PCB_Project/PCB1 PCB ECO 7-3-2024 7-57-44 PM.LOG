@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net*_3 Pin=COI_CHIP-1
+Removed Pin From Net: NetName=Net*_11 Pin=COI_CHIP-2
+Added Component: Designator=COI_CHIP(COI_CHIP - duplicate)
+Added Pin To Net: NetName=Net*_3 Pin=COI_CHIP-1
+Added Pin To Net: NetName=Net*_11 Pin=COI_CHIP-2
+Added Member To Class: ClassName=BAO_CHAY_SCHEMATIC Member=Component * ESP32
